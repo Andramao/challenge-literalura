@@ -81,10 +81,10 @@ Desarrollado con ❤️ por Andramao.
 ## 📸 Vista Previa
 
 <p align="center">
-  <img src="img/menu.png">
-  <img src="img/libro.png">
-  <img src="img/nuevo-libro-insert.png">
-  <img src="img/registrados.png">
+  <img src="img/menu.png" width="350" height="400">
+  <img src="img/libro.png" width="350" height="225">
+  <img src="img/nuevo-libro-insert.png" width="350" height="800">
+  <img src="img/registrados.png" width="350" height="200">
 </p>
 
 
