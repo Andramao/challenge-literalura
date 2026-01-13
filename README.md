@@ -96,6 +96,15 @@ Agradezco a los instructores por las bases proporcionadas en Java, Spring Boot y
 
 ---
 
+<h3 align="center">❤️Agradecimientos a: </h3> 
+<div align="center">
+  <p >#Alura Latam.</p>
+  <p >#Oracle Next Education.</p>
+</div>
+
+<div align="center"><img width="170" height="60" alt="image" src="https://github.com/user-attachments/assets/3c16f5d9-d26b-40d6-bbd9-04abebc96238" /> <img width="80" height="54" alt="image" src="https://github.com/user-attachments/assets/2fc68741-4e16-4f1c-b438-5de3cedad13d" /></div>
+
+
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Esto significa que eres libre de usar, copiar, modificar y distribuir el código, siempre y cuando se mantenga el reconocimiento al autor original.
@@ -106,6 +115,8 @@ Este proyecto está bajo la Licencia MIT. Esto significa que eres libre de usar,
   <b>Desarrollado con dedicación por Andramao - 2026</b><br>
   <i>"La lectura es a la mente lo que el ejercicio al cuerpo." — Joseph Addison</i>
 </p>
+
+
 
 
 
